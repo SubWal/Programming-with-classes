@@ -9,7 +9,7 @@ public abstract class Account
     // Abstract method
     public abstract void Withdraw(double amount);
 
-    // Concrete method
+    
     public void Deposit(double amount)
     {
         Balance += amount;
@@ -17,7 +17,7 @@ public abstract class Account
     }
 }
 
-// Concrete class
+
 public class SavingsAccount : Account
 {
     // Implementing abstract method
@@ -33,7 +33,7 @@ public class SavingsAccount : Account
     }
 }
 
-// Concrete class
+
 public class CheckingAccount : Account
 {
     // Implementing abstract method
