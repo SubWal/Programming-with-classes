@@ -1,0 +1,2 @@
+Honda|Civic|10|30
+Ford|F-150|30|10

@@ -1,0 +1,14 @@
+J:\programming with classes\section3_2024_01_29\abstarction\bin\Debug\net8.0\abstarction.exe
+J:\programming with classes\section3_2024_01_29\abstarction\bin\Debug\net8.0\abstarction.deps.json
+J:\programming with classes\section3_2024_01_29\abstarction\bin\Debug\net8.0\abstarction.runtimeconfig.json
+J:\programming with classes\section3_2024_01_29\abstarction\bin\Debug\net8.0\abstarction.dll
+J:\programming with classes\section3_2024_01_29\abstarction\bin\Debug\net8.0\abstarction.pdb
+J:\programming with classes\section3_2024_01_29\abstarction\obj\Debug\net8.0\abstarction.GeneratedMSBuildEditorConfig.editorconfig
+J:\programming with classes\section3_2024_01_29\abstarction\obj\Debug\net8.0\abstarction.AssemblyInfoInputs.cache
+J:\programming with classes\section3_2024_01_29\abstarction\obj\Debug\net8.0\abstarction.AssemblyInfo.cs
+J:\programming with classes\section3_2024_01_29\abstarction\obj\Debug\net8.0\abstarction.csproj.CoreCompileInputs.cache
+J:\programming with classes\section3_2024_01_29\abstarction\obj\Debug\net8.0\abstarction.dll
+J:\programming with classes\section3_2024_01_29\abstarction\obj\Debug\net8.0\refint\abstarction.dll
+J:\programming with classes\section3_2024_01_29\abstarction\obj\Debug\net8.0\abstarction.pdb
+J:\programming with classes\section3_2024_01_29\abstarction\obj\Debug\net8.0\abstarction.genruntimeconfig.cache
+J:\programming with classes\section3_2024_01_29\abstarction\obj\Debug\net8.0\ref\abstarction.dll

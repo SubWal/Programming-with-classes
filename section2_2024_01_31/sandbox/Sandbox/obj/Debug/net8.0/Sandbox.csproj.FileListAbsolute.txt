@@ -1,0 +1,14 @@
+J:\programming with classes\section2_2024_01_31\sandbox\Sandbox\bin\Debug\net8.0\Sandbox.exe
+J:\programming with classes\section2_2024_01_31\sandbox\Sandbox\bin\Debug\net8.0\Sandbox.deps.json
+J:\programming with classes\section2_2024_01_31\sandbox\Sandbox\bin\Debug\net8.0\Sandbox.runtimeconfig.json
+J:\programming with classes\section2_2024_01_31\sandbox\Sandbox\bin\Debug\net8.0\Sandbox.dll
+J:\programming with classes\section2_2024_01_31\sandbox\Sandbox\bin\Debug\net8.0\Sandbox.pdb
+J:\programming with classes\section2_2024_01_31\sandbox\Sandbox\obj\Debug\net8.0\Sandbox.GeneratedMSBuildEditorConfig.editorconfig
+J:\programming with classes\section2_2024_01_31\sandbox\Sandbox\obj\Debug\net8.0\Sandbox.AssemblyInfoInputs.cache
+J:\programming with classes\section2_2024_01_31\sandbox\Sandbox\obj\Debug\net8.0\Sandbox.AssemblyInfo.cs
+J:\programming with classes\section2_2024_01_31\sandbox\Sandbox\obj\Debug\net8.0\Sandbox.csproj.CoreCompileInputs.cache
+J:\programming with classes\section2_2024_01_31\sandbox\Sandbox\obj\Debug\net8.0\Sandbox.dll
+J:\programming with classes\section2_2024_01_31\sandbox\Sandbox\obj\Debug\net8.0\refint\Sandbox.dll
+J:\programming with classes\section2_2024_01_31\sandbox\Sandbox\obj\Debug\net8.0\Sandbox.pdb
+J:\programming with classes\section2_2024_01_31\sandbox\Sandbox\obj\Debug\net8.0\Sandbox.genruntimeconfig.cache
+J:\programming with classes\section2_2024_01_31\sandbox\Sandbox\obj\Debug\net8.0\ref\Sandbox.dll

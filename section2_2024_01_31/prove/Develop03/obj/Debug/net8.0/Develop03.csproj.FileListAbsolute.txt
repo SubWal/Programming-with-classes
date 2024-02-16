@@ -1,0 +1,14 @@
+J:\programming with classes\section2_2024_01_31\prove\Develop03\bin\Debug\net8.0\Develop03.exe
+J:\programming with classes\section2_2024_01_31\prove\Develop03\bin\Debug\net8.0\Develop03.deps.json
+J:\programming with classes\section2_2024_01_31\prove\Develop03\bin\Debug\net8.0\Develop03.runtimeconfig.json
+J:\programming with classes\section2_2024_01_31\prove\Develop03\bin\Debug\net8.0\Develop03.dll
+J:\programming with classes\section2_2024_01_31\prove\Develop03\bin\Debug\net8.0\Develop03.pdb
+J:\programming with classes\section2_2024_01_31\prove\Develop03\obj\Debug\net8.0\Develop03.GeneratedMSBuildEditorConfig.editorconfig
+J:\programming with classes\section2_2024_01_31\prove\Develop03\obj\Debug\net8.0\Develop03.AssemblyInfoInputs.cache
+J:\programming with classes\section2_2024_01_31\prove\Develop03\obj\Debug\net8.0\Develop03.AssemblyInfo.cs
+J:\programming with classes\section2_2024_01_31\prove\Develop03\obj\Debug\net8.0\Develop03.csproj.CoreCompileInputs.cache
+J:\programming with classes\section2_2024_01_31\prove\Develop03\obj\Debug\net8.0\Develop03.dll
+J:\programming with classes\section2_2024_01_31\prove\Develop03\obj\Debug\net8.0\refint\Develop03.dll
+J:\programming with classes\section2_2024_01_31\prove\Develop03\obj\Debug\net8.0\Develop03.pdb
+J:\programming with classes\section2_2024_01_31\prove\Develop03\obj\Debug\net8.0\Develop03.genruntimeconfig.cache
+J:\programming with classes\section2_2024_01_31\prove\Develop03\obj\Debug\net8.0\ref\Develop03.dll

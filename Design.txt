@@ -1,0 +1,21 @@
+Entry
+string response
+string prompt
+string date
+entry (response,prompt)
+entry(string, import)
+void(display)
+string(Export)Journal 
+
+list <Entry) entries
+journal()
+journal( String import)
+Void Display()
+string Export()
+
+Program
+
+Journal Journal
+String Get Prompt()
+Void Run()
+Void saveToFile()
