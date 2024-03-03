@@ -1,0 +1,15 @@
+J:\programming with classes\Encapsulation\bin\Debug\net8.0\Encapsulation.exe
+J:\programming with classes\Encapsulation\bin\Debug\net8.0\Encapsulation.deps.json
+J:\programming with classes\Encapsulation\bin\Debug\net8.0\Encapsulation.runtimeconfig.json
+J:\programming with classes\Encapsulation\bin\Debug\net8.0\Encapsulation.dll
+J:\programming with classes\Encapsulation\bin\Debug\net8.0\Encapsulation.pdb
+J:\programming with classes\Encapsulation\obj\Debug\net8.0\Encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+J:\programming with classes\Encapsulation\obj\Debug\net8.0\Encapsulation.AssemblyInfoInputs.cache
+J:\programming with classes\Encapsulation\obj\Debug\net8.0\Encapsulation.AssemblyInfo.cs
+J:\programming with classes\Encapsulation\obj\Debug\net8.0\Encapsulation.csproj.CoreCompileInputs.cache
+J:\programming with classes\Encapsulation\obj\Debug\net8.0\Encapsulation.sourcelink.json
+J:\programming with classes\Encapsulation\obj\Debug\net8.0\Encapsulation.dll
+J:\programming with classes\Encapsulation\obj\Debug\net8.0\refint\Encapsulation.dll
+J:\programming with classes\Encapsulation\obj\Debug\net8.0\Encapsulation.pdb
+J:\programming with classes\Encapsulation\obj\Debug\net8.0\Encapsulation.genruntimeconfig.cache
+J:\programming with classes\Encapsulation\obj\Debug\net8.0\ref\Encapsulation.dll
