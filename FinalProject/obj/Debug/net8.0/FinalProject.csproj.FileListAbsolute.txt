@@ -1,0 +1,15 @@
+J:\programming with classes\FinalProject\obj\Debug\net8.0\FinalProject.GeneratedMSBuildEditorConfig.editorconfig
+J:\programming with classes\FinalProject\obj\Debug\net8.0\FinalProject.AssemblyInfoInputs.cache
+J:\programming with classes\FinalProject\obj\Debug\net8.0\FinalProject.AssemblyInfo.cs
+J:\programming with classes\FinalProject\obj\Debug\net8.0\FinalProject.csproj.CoreCompileInputs.cache
+J:\programming with classes\FinalProject\obj\Debug\net8.0\FinalProject.sourcelink.json
+J:\programming with classes\FinalProject\bin\Debug\net8.0\FinalProject.exe
+J:\programming with classes\FinalProject\bin\Debug\net8.0\FinalProject.deps.json
+J:\programming with classes\FinalProject\bin\Debug\net8.0\FinalProject.runtimeconfig.json
+J:\programming with classes\FinalProject\bin\Debug\net8.0\FinalProject.dll
+J:\programming with classes\FinalProject\bin\Debug\net8.0\FinalProject.pdb
+J:\programming with classes\FinalProject\obj\Debug\net8.0\FinalProject.dll
+J:\programming with classes\FinalProject\obj\Debug\net8.0\refint\FinalProject.dll
+J:\programming with classes\FinalProject\obj\Debug\net8.0\FinalProject.pdb
+J:\programming with classes\FinalProject\obj\Debug\net8.0\FinalProject.genruntimeconfig.cache
+J:\programming with classes\FinalProject\obj\Debug\net8.0\ref\FinalProject.dll
